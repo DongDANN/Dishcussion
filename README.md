@@ -13,13 +13,13 @@ BSIS 2A
 Default Accounts
 
 Admin:
-Admin01@gmail.com
-Admin01
+Email: Admin01@gmail.com
+Password: Admin01
 
 Moderator:
-Moderator01@gmail.com
-Moderator01
+Email: Moderator01@gmail.com
+Password: Moderator01
 
 User:
-User01@gmail.com
-User01
+Email: User01@gmail.com
+Password: User01
