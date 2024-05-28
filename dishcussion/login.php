@@ -131,7 +131,7 @@ if(isset($_POST['submit'])){
             }
         }
     ?>
-    <div class="my-2">Don't have an account? <a href="register.php">Register Here</a></div>
+    <div class="my-2">Don't have an account?<a href="register.php">Register Here</a></div>
     <button class="btn btn-primary w-100 py-2" type="submit" name="submit">Sign in</button>
   </form>
 </main>
